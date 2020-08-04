@@ -5,7 +5,7 @@ const app = express();
 var cors = require("cors");
 var fs = require("fs");
 const { theirHoldStringToInt } = require("./utils");
-const name = "jacks-9-6";
+const name = "deuces-wild-44-9891";
 
 //Here we are configuring express to use body-parser as middle-ware.
 app.use(bodyParser.urlencoded({ extended: false }));
